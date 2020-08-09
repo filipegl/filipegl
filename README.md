@@ -15,6 +15,8 @@
   - Play soccer (it's football) ⚽
   - Enjoy instrument sounds 🎹 📯
   - Complete a task ☑️
+- 👨‍💻 Languages and tools
+  - <img src="https://img.icons8.com/color/35/000000/javascript.png"/> <img src="https://img.icons8.com/color/35/000000/react-native.png"/> <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/35/000000/android-os.png"/> <img src="https://img.icons8.com/color/35/000000/google-firebase-console.png"/> <img src="https://img.icons8.com/color/35/000000/python.png"/> <img src="https://img.icons8.com/color/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/console.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=filipegl&hide=stars&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
