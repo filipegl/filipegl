@@ -10,6 +10,7 @@
 - 📫 How to reach me:
   - [<img align="left" alt="filipe-gomes- | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="filiqe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="filipegl_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 - 💗 I love:
   - Play soccer (it's football) ⚽
   - Enjoy instrument sounds 🎹 📯
@@ -21,3 +22,4 @@
 
 [instagram]: https://www.instagram.com/filiqe
 [linkedin]: https://www.linkedin.com/in/filipe-gomes-
+[twitter]: https://twitter.com/filipegl_
