@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently *working* with machine learning and *playing* with mobile apps
 - 🌱 I’m currently learning kotlin
-- 👯 I’m looking to collaborate on the Stack OverFlow whenever I can
+- 👯 I’m looking to collaborate on the Github Issues whenever I can
 - 💬 Ask me about android apps in general
 - 📫 How to reach me:
   - [<img align="left" alt="filipe-gomes- | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
