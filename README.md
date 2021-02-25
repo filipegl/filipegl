@@ -4,7 +4,7 @@
 ## I'm a computer science student at UFCG, Developer, Musician and Curious 
 
 - 🔭 I’m currently *working* with machine learning and *playing* with mobile apps
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on the Github Issues whenever I can
 - 💬 Ask me about android apps in general
 - 📫 How to reach me:
