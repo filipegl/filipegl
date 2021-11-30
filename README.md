@@ -3,10 +3,10 @@
 
 ## I'm graduate in computer science by UFCG, developer, musician and curious 
 
-- 🔭 I’m currently *working* with machine learning and *playing* with mobile apps
-- 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on the Github Issues whenever I can
-- 💬 Ask me about android apps in general
+- 🔭 I’m currently *working* with machine learning and *playing* with deployments
+- 🌱 I'm currently delving into statistics for machine learning
+- 👯 I’m looking to learning all processes of a data scientist
+- 💬 Ask me about Natural Language Processing
 - 📫 How to reach me:
   - [<img align="left" alt="filipe-gomes- | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="filiqe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
