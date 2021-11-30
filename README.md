@@ -1,7 +1,7 @@
 ### Hi there, I'm Filipe 👋
 
 
-## I'm a computer science student at UFCG, Developer, Musician and Curious 
+## I'm graduate in computer science by UFCG, developer, musician and curious 
 
 - 🔭 I’m currently *working* with machine learning and *playing* with mobile apps
 - 🌱 I’m currently learning Go
