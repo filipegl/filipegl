@@ -3,9 +3,8 @@
 
 ## I'm graduate in computer science by UFCG, developer, musician and curious 
 
-- 🔭 I’m currently *working* with machine learning and *playing* with deployments
+- 🔭 I’m currently *working* with deep learning
 - 🌱 I'm currently delving into statistics for machine learning
-- 👯 I’m looking to learning all processes of a data scientist
 - 💬 Ask me about Natural Language Processing
 - 📫 How to reach me:
   - [<img align="left" alt="filipe-gomes- | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
